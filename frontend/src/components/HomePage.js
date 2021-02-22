@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import RoomJoinPage from "./RoomJoinPage";
 import CreateRoomPage from "./CreateRoomPage";
+//purpose: to route to different pages on the homepage
 import {
   BrowserRouter as Router,
   Switch,
